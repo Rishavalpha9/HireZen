@@ -1,2 +1,2 @@
 # HireZen
-Full-Stack job Portal Web App system.
+Full-Stack job Portal Web App.
